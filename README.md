@@ -26,4 +26,4 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementBolin&layout=compact)](https://github.com/ClementBolin)
-![ClementBolin's github stats](https://github-readme-stats.vercel.app/api?username=ClementBolin&count_private=true&show_icons=true&theme=highcontrast)
+![Clement's github stats](https://github-readme-stats.vercel.app/api?username=ClementBolin&count_private=true&show_icons=true&theme=highcontrast)
