@@ -2,7 +2,9 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ClementBolin/&title=Profile%20Views)
 <a href="https://www.linkedin.com/in/clement-bolin-a327ba198/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+<p aling="left"><samp>
 🎙Hi, I'm Clement Bolin. Passionate about computer science, I study mainly in the fields of software engineering, data science, artificial intelligence and all recently devOps. I am currently in my second year at Epitech Montpellier. 🎙
+</samp></p>
 
 ### Skills 🧑🏾‍💻
 
@@ -27,5 +29,9 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementBolin&layout=compact)](https://github.com/ClementBolin)
-![Clement's github stats](https://github-readme-stats.vercel.app/api?username=ClementBolin)
+### 📈 GitHub Stats
+
+<div align="center">
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ClementBolin&show_icons=true&theme=algolia&langs_count=8" alt="ClementBolin's github stats" />
+ <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClementBolin&show_icons=true&layout=compact&theme=algolia" alt="ClementBolin's github stats" />
+</div>
