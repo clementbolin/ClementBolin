@@ -1,5 +1,6 @@
 ### Hi there, I'm [ClementBolin!](https://github.com/ClementBolin) 👋🏽
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ClementBolin/&title=Profile%20Views)
+<a href="https://www.linkedin.com/in/clement-bolin-a327ba198/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 🎙Hi, I'm Clement Bolin. Passionate about computer science, I study mainly in the fields of software engineering, data science, artificial intelligence and all recently devOps. I am currently in my second year at Epitech Montpellier. 🎙
 
@@ -22,6 +23,7 @@
 <img align="left" alt="Linux" width="24px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 <img align="left" alt="Android" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
 <img align="left" alt="Apple" width="24px" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" />
+<img align="left" alt="docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
 <br>
 <br>
 
